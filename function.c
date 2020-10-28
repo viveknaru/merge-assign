@@ -1,1 +1,2 @@
 Initial command
+fucntion2
